@@ -1,1 +1,0 @@
-[![Éú³É×´Ì¬](http://localhost/DefaultCollection/AMS/_apis/build/status/AMS-ASP.NET%20Core-CI)](http://localhost/DefaultCollection/AMS/_build/latest?definitionId=3)
